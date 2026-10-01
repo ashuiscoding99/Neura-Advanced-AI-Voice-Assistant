@@ -6,7 +6,7 @@ import sys
 APP_NAME = "NeuraAI"
 VERSION = "1.0"
 DESCRIPTION = "Neura AI Personal Assistant"
-AUTHOR = "Tanishq"
+AUTHOR = "Ashutosh"
 
 # Get absolute paths
 base_dir = os.path.dirname(os.path.abspath(__file__))
