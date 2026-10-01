@@ -1,0 +1,9 @@
+pyttsx3
+speechrecognition
+eel
+pyaudio
+playsound==1.2.2
+pyautogui
+google-api-python-client
+selenium
+google-generativeai

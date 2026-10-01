@@ -1,0 +1,5 @@
+ASSISTANT_NAME = "Neura AI"
+GEMINI_API_KEY = "AIzaSyBh_Vwk7CJ9NFAtTeaAldoK4IsiFSGmu0Q"
+YOUTUBE_API_KEY = "AIzaSyByV3y8d4sQozHq6KiVWN6ZIkIaDdFYUSw"
+MODEL_NAME = "gemini-2.0-flash"
+MEMORY_FILE = "memory.json"
